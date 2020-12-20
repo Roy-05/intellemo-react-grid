@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/intellemo-react-grid/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/intellemo-react-grid/static/js/main.6c6e8e17.chunk.js",
+    "main.js.map": "/intellemo-react-grid/static/js/main.6c6e8e17.chunk.js.map",
+    "runtime-main.js": "/intellemo-react-grid/static/js/runtime-main.a55814f0.js",
+    "runtime-main.js.map": "/intellemo-react-grid/static/js/runtime-main.a55814f0.js.map",
+    "static/js/2.81081e64.chunk.js": "/intellemo-react-grid/static/js/2.81081e64.chunk.js",
+    "static/js/2.81081e64.chunk.js.map": "/intellemo-react-grid/static/js/2.81081e64.chunk.js.map",
+    "static/js/3.22983c98.chunk.js": "/intellemo-react-grid/static/js/3.22983c98.chunk.js",
+    "static/js/3.22983c98.chunk.js.map": "/intellemo-react-grid/static/js/3.22983c98.chunk.js.map",
+    "index.html": "/intellemo-react-grid/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/intellemo-react-grid/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.81081e64.chunk.js.LICENSE.txt": "/intellemo-react-grid/static/js/2.81081e64.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/intellemo-react-grid/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a55814f0.js",
+    "static/js/2.81081e64.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6c6e8e17.chunk.js"
+  ]
+}
